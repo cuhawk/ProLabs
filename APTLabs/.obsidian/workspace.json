@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "831c96e16f60f145",
+    "type": "split",
+    "children": [
+      {
+        "id": "8860aae282e2954f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2987bd4e487662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.23.10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c09ff5d26384ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ef014bb6cf9b9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0c469f8b8476f56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fee7adc4b8711004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "AutoOpen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "261b09f94c7583fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae100a9bd2af1f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fbb9d26c102639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31108a56b35833f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "192.168.23.10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "064af0557f5d23c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "192.168.23.10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e18945431f3f328",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18e961d8b7fefe8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "192.168.23.10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fee7adc4b8711004",
+  "lastOpenFiles": [
+    "192.168.23.146.md",
+    "192.168.23.10.md",
+    "192.168.24.10.md",
+    "192.168.24.155.md",
+    "192.168.24.118.md",
+    "rbcd.md",
+    "192.168.21.123.md",
+    "192.168.21.10.md",
+    "192.168.21.155.md",
+    "192.168.20.15.md",
+    "192.168.20.10.md",
+    "10.10.110.231.md",
+    "10.10.110.74.md",
+    "10.10.110.88.md",
+    "10.10.110.62.md",
+    "10.10.110.13 DNS.md",
+    "adfsdump.md",
+    "nmap.md",
+    "nmap internal.md"
+  ]
+}
