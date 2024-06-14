@@ -12,7 +12,7 @@ invoke-command -computername ws05.rastalabs.local -credential $cred -scriptblock
 invoke-command -session $sess -scriptblock {
 
 ngodfrey_adm : J5KCwKruINyCJBKd1dZU
-
+b
 $secpassword = convertto-securestring "J5KCwKruINyCJBKd1dZU" -asplaintext -force;$cred = new-object system.management.automation.pscredential('RLAB\ngodfrey_adm', $secpassword)
 Get-DomainObject -Identity ws01,ws02,ws03,ws04,ws05,ws06 -credential $cred|select name,ms-mcs-admpwd
 WS01 mtU1l18l        
